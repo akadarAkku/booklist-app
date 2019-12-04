@@ -18,6 +18,6 @@ I need to improve: `event-loop`, `closures` a bit about `assertion`.
 
 
 This repository created to learn programming booklist-app as part of coding study at [Hack Your future Belgium](https://github.com/HackYourFutureBelgium), Javascript3 week3-Project! 
-=======
+
 This repository created to learn programming booklist-app as part of coding study at [Hack Your future Belgium](https://github.com/HackYourFutureBelgium), Javascript3 week3-Project! 
 
