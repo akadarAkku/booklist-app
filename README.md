@@ -16,4 +16,4 @@ for instance:
 
 I need to improve: `event-loop`, `closures` a bit about `assertion`.
 
-to see my book list app live on github pages: [click here ](https://akadarakku.github.io/booklist-app/)
+ [click here ](https://akadarakku.github.io/booklist-app/) to see my book list app live on github pages.
